@@ -16,6 +16,8 @@ Presentations, the project proposal, and the midterm update can be found in the 
 
 Images used for training, along with the intratreatment radiographs can be found in the images folder
 
+Scripts for reading in dicom files can be found in rawData
+
 Link to MATCH Dataset https://drive.google.com/drive/folders/1Pv9dusbPRgytFiyxII02gtJTWZrMAKWh
 
 --
