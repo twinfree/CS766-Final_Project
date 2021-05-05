@@ -8,9 +8,11 @@ Algorithm for tracking lung tumors from continuously acquired 2D radiographs.
 
 --
 
-Code can be found in matlab/ - see matlab/README for running procedure
+Code can be found in the MATLAB folder
 
-Result images are in images/
+Videos showing segmentation and tracking results can be found in the Results folder
+
+Presentations, the project proposal, and the midterm update can be found in the Presentations_Updates folder
 
 Link to MATCH Dataset https://drive.google.com/drive/folders/1Pv9dusbPRgytFiyxII02gtJTWZrMAKWh
 
