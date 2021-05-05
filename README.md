@@ -14,6 +14,8 @@ Videos showing segmentation and tracking results can be found in the Results fol
 
 Presentations, the project proposal, and the midterm update can be found in the Presentations_Updates folder
 
+Images used for training, along with the intratreatment radiographs can be found in the images folder
+
 Link to MATCH Dataset https://drive.google.com/drive/folders/1Pv9dusbPRgytFiyxII02gtJTWZrMAKWh
 
 --
